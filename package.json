@@ -1,0 +1,11 @@
+{
+	"name": "com.cola.foundation",
+	"displayName":"cola foundation",
+	"version": "1.0.0",
+    "unity": "2019.2",
+	"category": "framework",
+	"description": "cola foundation",
+    "dependencies": {
+		"com.unity.modules.animation": "1.0.0"
+    }
+}
